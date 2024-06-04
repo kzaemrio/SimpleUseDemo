@@ -3,3 +3,4 @@ plugins {
 }
 rootProject.name = "SimpleUseDemo"
 include("Spring")
+include("Tomcat")
